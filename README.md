@@ -1,5 +1,5 @@
 ### Oi, eu sou o João! 
-- 🔭 Desenvolvedor Front-end
+- 🔭 Desenvolvedor Full-Stack | Mobile
 - 😄 Pronome: ele/dele
   
 #
