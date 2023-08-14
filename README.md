@@ -7,19 +7,15 @@
 <div align="center">
  
  ### WEB
-[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,react,ts,js)](https://skillicons.dev)
-
-### BACKEND
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,react,ts,js,java,spring)](https://skillicons.dev)
 
 ### MOBILE
 [![Minhas Habilidades](https://skillicons.dev/icons?i=flutter,swift,kotlin)](https://skillicons.dev)
 
-### DB (Database)
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+### TOOLS AND PLATFORMS
+[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,aws,postman,mysql,mongodb,sqlite,postgres)](https://skillicons.dev)
 
-### TOOLS
-[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,aws,postman)](https://skillicons.dev)
+<br>
 </div>
 
 
