@@ -3,12 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41A5F54&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Joao+Marcelino;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelinx&bg_color=41A5F57&color=41A5F5&line=41A5F5&point=41A5F5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
  
- ## Main Skills
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angularjs&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+ ### WEB
+[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,react,ts,js)](https://skillicons.dev)
+
+### BACKEND
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+### MOBILE
+[![Minhas Habilidades](https://skillicons.dev/icons?i=flutter,swift,kotlin)](https://skillicons.dev)
+
+### DB (Database)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+
+### TOOLS
+[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,aws,postman)](https://skillicons.dev)
+</div>
 
 
 <p align="center">
@@ -16,10 +28,11 @@
 </p>
 
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelinx&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=000&bg_color=41A5F5" alt="Joao Marcelino github stats" /> 
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelinx&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=000&bg_color=41A5F5" alt="Joao Marcelino github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinx&layout=compact&hide_border=true&title_color=41A5F5&text_color=41A5F5&bg_color=000" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcelinx&theme=github-dark-blue&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
 
 
