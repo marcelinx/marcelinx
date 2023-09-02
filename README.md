@@ -7,10 +7,10 @@
 <div align="center">
  
  ### WEB
-[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,react,ts,js,java,spring)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,ts,js)](https://skillicons.dev)
 
 ### MOBILE
-[![Minhas Habilidades](https://skillicons.dev/icons?i=flutter,swift,kotlin)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
 
 ### TOOLS AND PLATFORMS
 [![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,aws,postman,mysql,mongodb,sqlite,postgres)](https://skillicons.dev)
